@@ -1,4 +1,4 @@
-# persian-fonts
+# farsi-fonts
 
 ```
 cp -r farsi-fonts/* ~/.fonts/truetype/
