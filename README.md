@@ -1,6 +1,6 @@
 # persian-fonts
 
 ```
-cp -r persian-fonts/* ~/.fonts/truetype/
+cp -r farsi-fonts/* ~/.fonts/truetype/
 fc-cache -f -v
 ```
